@@ -1,0 +1,12 @@
+/*
+ * Main Default StyleSheet
+ * Copyright 2018
+ */
+ 
+body {
+	font-size:100%;
+}
+h1 {
+	font-size:1rem;
+	color:blue;
+}
